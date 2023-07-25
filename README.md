@@ -3,12 +3,12 @@
 </p>
 
 
-# <p align="center">👋 Welcome! </p>
+# <p align="center"> Welcome! 👋 </p>
 
-<p align="center">Hi everyone, I am Neha, a hardworking and tech enthusiastic undergraduate student of Software Engineering. Through my repositories, you'll find a curated collection of projects that exemplify my dedication to craftsmanship, scalability, and maintainability.</p>
+<p align="center">Hi everyone, I am Neha, a hardworking and tech enthusiastic undergraduate student of Software Engineering. Through my repositories, you'll find a curated collection of projects that exemplify my dedication to craftsmanship, scalability, and maintainability.✨</p>
 
-<p align="center">My expertise spans diverse programming languages and frameworks, enabling me to tackle complex challenges with ease. As an avid supporter of open-source, I actively contribute to the developer community, recognizing the power of collaborative innovation.</p>
-<p align="center">With a firm commitment to staying at the forefront of technology, I continuously embrace new tools and methodologies to ensure that my software solutions remain cutting-edge and impactful. I invite you to join me on this coding journey, where excellence and professionalism converge to shape a better digital landscape. Let's code and create together! 🚀</p>
+<p align="center">My expertise spans diverse programming languages and frameworks, enabling me to tackle complex challenges with ease. As an avid supporter of open-source, I actively contribute to the developer community, recognizing the power of collaborative innovation.💡</p>
+<p align="center">With a firm commitment to staying at the forefront of technology, I continuously embrace new tools and methodologies to ensure that my software solutions remain cutting-edge and impactful. I invite you to join me on this coding journey, where excellence and professionalism converge to shape a better digital landscape. 🤝 Let's code and create together! 🚀</p>
 
 
 
