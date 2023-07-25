@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=["https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif)">
+  <img src="[https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif](https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif)">
 </p>
 
 
