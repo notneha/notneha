@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif">
+  <img src="C:\Users\Neha\Downloads\git-pf">
 </p>
 
 
 # <p align="center">👋 Welcome! </p>
 
-<p align="center">Hi everyone, my name is Neha and I am a software engineering student at UIT University. I am passionate about programming and enjoy learning new things. Lately, I have been interested in data science and am working towards a career in this field. I hope to make a positive impact in the future through my work in data science.</p>
+<p align="center">Hi everyone, my name is Neha and I am a software engineering student. I am passionate about programming and enjoy learning new things. Lately, I have been interested in data science and am working towards a career in this field. I hope to make a positive impact in the future through my work in data science.</p>
 
 
 
