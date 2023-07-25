@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPratikshya1201&psig=AOvVaw3ninLwmUiCSilzWgGwE0OS&ust=1690361154918000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCJC0pZK8qYADFQAAAAAdAAAAABCVAQ">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="Coder GIF" width="500">
 </p>
 
 
 # <p align="center">👋 Welcome! </p>
 
-<p align="center">Hi everyone, my name is Neha and I am a software engineering student. I am passionate about programming and enjoy learning new things. Lately, I have been interested in data science and am working towards a career in this field. I hope to make a positive impact in the future through my work in data science.</p>
+<p align="center">Hi everyone, my name is Neha. I'm a hardworking and tech enthusiastic undergraduate student of Software Engineering. I really enjoy learning langauges and frameworks like Java, C#, Python, .NET, ASP.Net MVC, XML, HTML, JavaScript, CSS, Bootstrap. I hope to make a positive impact in the future.</p>
 
 
 
@@ -15,7 +15,7 @@
 
 # 🔗 Links
 
-[![linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/nehazafar/)  [![linkedin](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/notneha)
+[![linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/neha-zafar-73461b245)  [![linkedin](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/notneha)
 
 
 #  <p align="center">📊 Github Stats</p>
