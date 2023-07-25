@@ -7,10 +7,12 @@
 
 <p align="center">Hi everyone, my name is Neha. I'm a hardworking and tech enthusiastic undergraduate student of Software Engineering. I really enjoy learning langauges and frameworks like Java, C#, Python, .NET, ASP.Net MVC, XML, HTML, JavaScript, CSS, Bootstrap. I hope to make a positive impact in the future.</p>
 
+<p align="center"></p>
+
 
 
 # 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,arduino,html,css,bootstrap,js,xd,figma,ae,ai&theme=dark&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cs,dotnet,cpp,html,css,bootstrap,js,figma,ae,ai&theme=dark&perline=9)](https://skillicons.dev)
 
 
 # 🔗 Links
