@@ -13,7 +13,7 @@
 
 
 # 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,java,cs,dotnet,cpp,html,css,bootstrap,js,figma,ae,ai&theme=dark&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,cs,dotnet,cpp,html,css,bootstrap,js,figma)](https://skillicons.dev)
 
 
 # 🔗 Links
